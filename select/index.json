@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "FAKEit",
+  "base_artist": "SawanoHiroyuki[nZk]",
+  "createdAt": "2026-02-11T09:42:36.205961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FAKEit (feat. Laco)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/01_FAKEit_(feat._Laco)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FAKEit",
+      "artist": "SawanoHiroyuki[nZk]:Laco",
+      "has_synced": true,
+      "path": "select/02_FAKEit_SawanoHiroyuki[nZk]_Laco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FAKEit",
+      "artist": "SawanoHiroyuki[nZk]/Laco",
+      "has_synced": true,
+      "path": "select/03_FAKEit_SawanoHiroyuki[nZk]_Laco.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FAKEit",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/04_FAKEit_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FAKEit",
+      "artist": "SawanoHiroyuki[nZk] feat. Laco",
+      "has_synced": true,
+      "path": "select/05_FAKEit_SawanoHiroyuki[nZk]_feat._Laco.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "fakeit",
+      "artist": "sawanohiroyukinzklaco",
+      "has_synced": true,
+      "path": "select/06_fakeit_sawanohiroyukinzklaco.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FAKEit",
+      "artist": "SawanoHiroyuki[nZk]:Laco",
+      "has_synced": false,
+      "path": "select/pl_01_FAKEit_SawanoHiroyuki[nZk]_Laco.txt"
+    }
+  ]
+}
